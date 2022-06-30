@@ -1,4 +1,4 @@
-👋 Hi, I’m Ajinkya Baikar
+👋 Hi, I’m @Ajinkya Baikar
 👀 I’m interested in Web Developmment
 🌱 I’m currently learning Software Development
 💞️ I’m looking to collaborate on Web Projects
